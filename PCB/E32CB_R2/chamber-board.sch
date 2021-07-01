@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L E32CB_R2-rescue:USB_B-Connector J3
+L chamber-board-rescue:USB_B-Connector-E32CB_R2-rescue J3
 U 1 1 5DA1F910
 P 1350 1200
 F 0 "J3" H 1407 1667 50  0001 C CNN
